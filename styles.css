@@ -371,7 +371,7 @@ img {
     width: 108px;
     height: 27px;
     position: relative;
-    background: url("./assets/logo.png") no-repeat left top;
+    background: url("./assets/logo.svg") no-repeat left center;
     background-size: cover;
 }
 
