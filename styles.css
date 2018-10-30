@@ -3,16 +3,26 @@
     font-style: normal;
     font-weight: 700;
     font-display: swap;
-    src: url(fonts/pts75f_w-webfont.eot);
-    src: local('PT Sans Bold'), url(fonts/pts75f_w-webfont.woff) format('woff')
+    src: local('PT Sans Bold'),
+    url('fonts/PTSans-Bold.eot'),
+    url('fonts/PTSans-Bold.eot?#iefix') format('embedded-opentype'),
+    url('fonts/PTSans-Bold.woff2') format('woff2'),
+    url('fonts/PTSans-Bold.woff') format('woff'),
+    url('fonts/PTSans-Bold.ttf') format('truetype'),
+    url('fonts/PTSans-Bold.svg#PTSans-Bold') format('svg');
 }
 
 @font-face {
     font-family: 'PT Sans Narrow';
     font-weight: 700;
     font-display: swap;
-    src: url(fonts/ptn77f_w-webfont.eot);
-    src: local('PT Sans Narrow Bold'), url(fonts/ptn77f_w-webfont.woff) format('woff')
+    src: local('PT Sans Narrow Bold'),
+    url('fonts/PTSans-NarrowBold.eot'),
+    url('fonts/PTSans-NarrowBold.eot?#iefix') format('embedded-opentype'),
+    url('fonts/PTSans-NarrowBold.woff2') format('woff2'),
+    url('fonts/PTSans-NarrowBold.woff') format('woff'),
+    url('fonts/PTSans-NarrowBold.ttf') format('truetype'),
+    url('fonts/PTSans-NarrowBold.svg#PTSans-NarrowBold') format('svg');
 }
 
 .adjust-bar, .adjust-bar__container_theme_temp {
