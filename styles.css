@@ -4,7 +4,7 @@
     font-style: normal;
     font-weight: 700;
     src: local('PT Sans Bold'), url(fonts/PTSans-Bold.eot), url(fonts/PTSans-Bold.eot?#iefix) format("embedded-opentype"), url(fonts/PTSans-Bold.woff2) format("woff2"), url(fonts/PTSans-Bold.woff) format("woff"), url(fonts/PTSans-Bold.ttf) format("truetype"), url(fonts/PTSans-Bold.svg#PTSans-Bold) format("svg");
-    unicode-range: U+0410-044F, U+002C, U+0020
+    unicode-range: U+0410-044F, U+002C, U+0021, U+0020
 }
 
 @font-face {
